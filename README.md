@@ -21,15 +21,20 @@
 
 ###
 
-<h1 align="center">Ahoy, coders! 👋</h1>
+<h1 align="center">Ahoy, coders! 👋, I'm Apoorvi</h1>
+<h3 align="center">A CSE undergrad from India.</h3>
 
-###
+- 🔭 I’m currently working on **React projects**
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🌱 I’m currently learning **Object Oriented Design and Kubernetes**
 
-###
+- 👯 I’m looking to collaborate on **Spring and MERN projects**
 
-<p align="left">I'm Apoorvi from India<br><br>- 🔭 I’m an CSE undergrad<br>- 📚 I'm currently learning MERN and Spring.<br>- ⚡ I’m looking for help with Spring projects.</p>
+- 🤝 I’m looking for help with **Spring projects**
+
+- 💬 Ask me about **Java, Data Structures and Operating System.**
+
+- 📫 How to reach me **apoorvii022@gmail.com**
 
 ###
 
